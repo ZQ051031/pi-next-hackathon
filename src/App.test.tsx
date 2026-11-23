@@ -24,7 +24,7 @@ it('posts, claims, submits and pays a demo bounty and persists the completed pro
   const view = render(<App />)
   fireEvent.click(button('Sign in'))
   fireEvent.click(button('Demo: @maya.design'))
-  fireEvent.click(button('＋ Post a task'))
+  fireEvent.click(button('Post a task'))
   fill('Title', 'Proofread the welcome guide')
   fill('Description', 'Proofread the first three pages and send a note with corrections.')
   fill('Category', 'Writing')

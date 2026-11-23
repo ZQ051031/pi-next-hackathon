@@ -220,7 +220,7 @@ export default function App() {
           <p>Get the little things done. Post a bounty, put your skills to work, and reward contributions in Pi.</p>
           <div className="hero-actions">
             <a className="button lime" href="#board">Explore tasks <span aria-hidden="true">↓</span></a>
-            <button className="button outline" onClick={() => requireUser('post')}>＋ Post a task</button>
+            <button className="button outline" onClick={() => requireUser('post')}><span aria-hidden="true">+</span> Post a task</button>
           </div>
         </div>
         <div className="hero-art" aria-hidden="true">
