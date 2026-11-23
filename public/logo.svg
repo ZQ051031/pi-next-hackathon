@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 145 48" role="img" aria-labelledby="title">
+  <title id="title">Pi Tasks</title>
+  <rect width="48" height="48" rx="13" fill="#185846"/>
+  <path d="M13 24.5l7 7L35 16" fill="none" stroke="#c7f272" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.5"/>
+  <path d="M13 14h11" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+  <text x="58" y="31" fill="#173a30" font-family="system-ui,sans-serif" font-size="23" font-weight="750" letter-spacing="-1">Pi Tasks</text>
+</svg>
